@@ -1,5 +1,5 @@
 {
-  "name": "ticalc.link",
+  "name": "ticalclink.fixed",
   "description": "Send files to your calculator from the browser",
   "scripts": {
     "start": "webpack-dev-server",
